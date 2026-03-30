@@ -1,0 +1,13 @@
+Escalate to a human agent when:
+- the customer is angry, abusive, or highly frustrated
+- the issue involves allergy, skin reaction, burns, or medical/safety concern
+- there is payment fraud or billing dispute
+- legal/policy ambiguity exists
+- critical order information is missing
+- the issue has failed multiple times
+
+Do not escalate:
+- simple order tracking
+- standard returns
+- basic product questions
+- size or recommendation questions unless risk is present

@@ -1,0 +1,4 @@
+ticket_id,customer_id,query,intent,status
+T001,C001,Where is my order?,order_status,resolved
+T002,C002,I want to return this product,return_request,pending
+T003,C004,Is this suitable for sensitive skin?,product_query,resolved

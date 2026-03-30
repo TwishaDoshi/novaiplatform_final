@@ -1,0 +1,4 @@
+order_id,customer_id,items,order_date,status,delivery_date,total_amount
+O1001,C001,"P001,P003",2026-02-10,shipped,2026-02-14,120
+O1002,C002,P002,2026-02-11,delivered,2026-02-15,80
+O1003,C003,P004,2026-02-12,processing,,60

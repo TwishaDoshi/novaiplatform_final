@@ -1,0 +1,5 @@
+product_id,name,category,ingredients,target,price
+P001,Hydrating Face Serum,skincare,"Hyaluronic Acid, Vitamin E","dry,sensitive",40
+P002,Matte Lipstick,makeup,Natural Wax,all,20
+P003,Foam Cleanser,skincare,Salicylic Acid,oily,30
+P004,Denim Jacket,apparel,NA,"S,M,L,XL",60

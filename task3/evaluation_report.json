@@ -1,0 +1,34 @@
+{
+  "num_cases": 4,
+  "accuracy": 1.0,
+  "results": [
+    {
+      "query": "Can I return a damaged product?",
+      "expected_keyword": "returns",
+      "answer": "According to NOVA policy, returns can be requested for eligible products within 7 days of delivery, and the order ID is required to initiate the process.",
+      "hit": true,
+      "num_sources": 3
+    },
+    {
+      "query": "Is this serum good for oily skin?",
+      "expected_keyword": "oily skin",
+      "answer": "Based on the knowledge base, this appears suitable for oily skin. The answer is grounded in the product target and ingredient details retrieved from the catalog.",
+      "hit": true,
+      "num_sources": 3
+    },
+    {
+      "query": "What sizes are available for apparel?",
+      "expected_keyword": "sizes",
+      "answer": "According to NOVA sizing guidance, customers should compare their usual fit with available sizes like S, M, L, and XL because fit can vary by apparel product.",
+      "hit": true,
+      "num_sources": 3
+    },
+    {
+      "query": "What should I use for dry skin?",
+      "expected_keyword": "dry skin",
+      "answer": "Based on the knowledge base, hydrating products targeted for dry skin are the most relevant match.",
+      "hit": true,
+      "num_sources": 3
+    }
+  ]
+}

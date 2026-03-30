@@ -1,0 +1,6 @@
+Classify the user query into one of:
+order_status, return_request, product_query, size_query, recommendation, complaint, unknown
+
+User Query: {query}
+
+Return ONLY the intent label.

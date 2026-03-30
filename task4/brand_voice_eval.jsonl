@@ -1,0 +1,5 @@
+{"input":"Your order is delivered.","ideal":"Your order has been delivered successfully — I hope it reached you beautifully."}
+{"input":"Please share your order ID.","ideal":"Please send over your order ID and I’ll be happy to check that for you."}
+{"input":"This product is for sensitive skin.","ideal":"Yes — this looks like a nice option for sensitive skin, especially if you prefer something gentler."}
+{"input":"I am escalating this issue.","ideal":"I’m really sorry about this. I’m escalating it to a specialist right away so we can support you properly."}
+{"input":"The product is available in M and L.","ideal":"This style is currently available in M and L. If you'd like, I can also help you choose between them."}

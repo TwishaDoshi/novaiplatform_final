@@ -1,0 +1,21 @@
+customer_id,name,country,skin_type,size_preference,total_orders,lifetime_value
+C001,Aarav Shah,India,oily,M,3,210
+C002,Emma Wilson,UK,dry,S,5,420
+C003,Rohan Patel,India,combination,L,2,150
+C004,Sophia Lee,USA,sensitive,M,6,520
+C005,Neha Mehta,India,dry,S,4,300
+C006,Liam Brown,Canada,oily,L,3,250
+C007,Priya Verma,India,sensitive,M,2,180
+C008,Noah Smith,USA,combination,L,7,600
+C009,Ananya Gupta,India,dry,S,1,80
+C010,Oliver King,UK,oily,M,5,430
+C011,Meera Iyer,India,combination,M,3,220
+C012,Lucas Martin,France,dry,L,2,160
+C013,Kavya Reddy,India,sensitive,S,4,310
+C014,Ethan Clark,USA,oily,XL,3,270
+C015,Sneha Kapoor,India,dry,M,6,540
+C016,James Scott,UK,combination,L,2,140
+C017,Riya Sharma,India,sensitive,S,3,200
+C018,Daniel White,USA,oily,M,4,330
+C019,Aisha Khan,UAE,dry,L,5,400
+C020,Arjun Nair,India,combination,M,2,150

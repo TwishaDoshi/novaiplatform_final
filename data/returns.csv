@@ -1,0 +1,3 @@
+return_id,order_id,customer_id,reason,status
+R001,O1002,C002,Damaged product,approved
+R25AC58,O1001,C001,Changed mind after purchase,pending
