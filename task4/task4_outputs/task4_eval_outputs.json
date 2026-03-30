@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Rewrite in NOVA brand voice: Your order has been shipped and will arrive by Feb 14.",
+    "output": "2. Use a call-to-action (CTA) to encourage customers to"
+  },
+  {
+    "prompt": "Rewrite in NOVA brand voice: Please share your order ID.",
+    "output": "2. Email:\nSubject: Order #12345\n\nDear"
+  },
+  {
+    "prompt": "Rewrite in NOVA brand voice: This issue will be escalated to a human agent.",
+    "output": "2. Customer Service:\n\n- Customer Service:\n\n- Customer Service:"
+  },
+  {
+    "prompt": "Rewrite in NOVA brand voice: This product is suitable for dry skin.",
+    "output": "2. \"Nova Skin Care: The Ultimate Solution for Dry Skin"
+  }
+]
